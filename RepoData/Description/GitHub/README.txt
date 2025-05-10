@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🇬📖️ The official documentation source repository for the Gurgle project, a privacy-respecting, free and open source, alternative to Google. It also serves as a parody of Google.
